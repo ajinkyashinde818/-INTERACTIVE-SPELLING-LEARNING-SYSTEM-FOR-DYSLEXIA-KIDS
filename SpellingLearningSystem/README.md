@@ -52,5 +52,5 @@ The database includes **100 word records** with 6, 7, and 8 character words, e.g
 - Provide **multilingual support**.  
 
 ## Author
-- **Name:** [Your Name]  
-- **Contact:** [Your Email]  
+- **Name:** Ajinkya Shinde  
+- **Contact:** ajinkyashinde818@gmail.com 
